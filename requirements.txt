@@ -1,0 +1,8 @@
+matplotlib~=3.6.2
+torch~=2.3.0
+numpy~=1.23.1
+pandas~=1.4.4
+seaborn~=0.13.2
+scikit-learn~=1.1.2
+tqdm~=4.66.4
+icecream~=2.1.3
